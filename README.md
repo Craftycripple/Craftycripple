@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Aidar Sahabutdinov
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+#### Contacts:
 <div id="badges">
   <a href='a.sahabutdinov.business@gmail.com'>
     <img src="https://img.shields.io/badge/Google-red?logo=google&logoColor=white&style=for-the-badge" alt="Google Badge"/>
