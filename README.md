@@ -7,7 +7,10 @@
                 <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
               </a>
             </div>
-- Yes
+#### Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 <!--
 **Craftycripple/Craftycripple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
