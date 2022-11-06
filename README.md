@@ -8,7 +8,7 @@
   <a href='a.sahabutdinov.business@gmail.com'>
     <img src="https://img.shields.io/badge/Google-red?logo=google&logoColor=white&style=for-the-badge" alt="Google Badge"/>
   </a>
-  <a href="https://t.me/Craftycripple"
+  <a href="https://t.me/Craftycripple">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
